@@ -20,5 +20,3 @@ I'm Software Developer passionate about building meaningful, impactful projects<
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kritikaat&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
