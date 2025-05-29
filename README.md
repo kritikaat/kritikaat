@@ -2,10 +2,10 @@
 > 🌸 Turning ideas into code, and code into impact.
 
 I’m a **Software Developer** who loves:  
-💥 building meaningful projects  
-💥 experimenting with new tools  
-💥 competing in hackathons  
-💥 exploring the magic between frontend ✨ + backend ⚙️ + cloud ☁️
+building meaningful projects  
+experimenting with new tools  
+competing in hackathons  
+exploring the magic between frontend + backend + cloud 
 
 ---
 
