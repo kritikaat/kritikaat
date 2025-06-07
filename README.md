@@ -1,4 +1,4 @@
-## 🚀 **Hi, I’m Kritika — a Maker, Builder, and Explorer**  
+## 🚀 **Hi, I’m [Kritika](https://nextcmsportfolio.vercel.app/) — a Maker, Builder, and Explorer**  
 > 🌸 Turning ideas into code, and code into impact.
 
 I’m a **Software Developer** who loves:  
